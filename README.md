@@ -124,13 +124,14 @@ Random Forest was selected as the final model because it offered:
 
 ```text
 Fake-News-Detection/
+├── app.py
+├── random_forest_model.joblib
+├── tfidf_vectorizer.joblib
 ├── static/
 │   └── styles.css
 ├── templates/
 │   └── index.html
-├── app.py
-├── random_forest_model.joblib
-└── tfidf_vectorizer.joblib
+└── screenshots
 ```
 
 ## File Details
